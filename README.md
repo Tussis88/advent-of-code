@@ -1,3 +1,5 @@
 # Advent of Code 23
 
-### My *solutions* to the (advent of code)[https://adventofcode.com] challenge 23 made in python
+### My *solutions* to the advent of code challenge 23 made in python
+
+https://adventofcode.com
